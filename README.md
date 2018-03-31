@@ -1,6 +1,6 @@
-# ReactLearn
+# ReactNATIVELearnTemplate
 
-Description: A simple ReactLayout with Login and Signup pages
+Description: A simple ReactNative Layout with Login and Signup pages
 
 
 Installation 
